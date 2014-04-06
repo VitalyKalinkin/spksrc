@@ -1,4 +1,4 @@
-SPK_NAME = mono
+SPK_NAME = mono-libraries
 SPK_VERS = 3.4.0
 SPK_REV = 1
 SPK_ICON = src/mono.png
@@ -9,7 +9,7 @@ DEPENDS = cross/$(SPK_NAME)
 
 MAINTAINER = SynoCommunity
 DESCRIPTION = Cross platform, open source .NET development framework
-DISPLAY_NAME = Mono
+DISPLAY_NAME = Mono Libraries
 CHANGELOG = "1. Initial release"
 
 HOMEPAGE = http://mono-project.com/
